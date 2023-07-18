@@ -47,6 +47,9 @@ function App() {
 
   return (
     <>
+      <div className="text-center p-4">
+        <h1>Meet this generic group of fictional people!</h1>
+      </div>
       <div className="container board mt-3">
         <div className="row justify-center text-center">
 
